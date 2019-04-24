@@ -1,0 +1,2 @@
+# educationwarehouse
+Educationwarehouse static page
